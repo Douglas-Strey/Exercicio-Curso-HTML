@@ -1,2 +1,2 @@
 # Exercicio-Curso-HTML
-Exercícios realizados nos cursos que estou fazendo.
+Exercícios realizados no Curso de Web Design Completo HTML5, CSS3 e JS + 5 Projetos.
